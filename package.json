@@ -1,5 +1,5 @@
 {
-  "name": "raspjs",
+  "name": "rasp",
   "version": "1.0.0",
   "description": "Return HTML elements from a given URL based on CSS selectors, optionally within a specified context.",
   "main": "index.js",
