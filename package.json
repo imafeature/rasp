@@ -14,5 +14,9 @@
     "name":"Parker McDade",
     "email":"imafeature@gmail.com"
   },
+  "dependencies": {
+    "cheerio": "~0.2.0",
+    "request-promise": "~3.0.0"
+  },
   "license": "ISC"
 }
